@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "lagz0ne-skills",
+  "description": "Agent skills by lagz0ne.",
+  "owner": { "name": "Duke Dao", "url": "https://github.com/lagz0ne" },
+  "plugins": [
+    {
+      "name": "lagz0ne",
+      "source": "./",
+      "description": "Agent skills by lagz0ne: writing-requirement (requirements top down, before design).",
+      "homepage": "https://github.com/lagz0ne/skills",
+      "license": "MIT",
+      "keywords": ["skills", "requirements", "product", "spec"]
+    }
+  ]
+}
